@@ -1,0 +1,6 @@
+pra rodar o caido rode o seguinte comando.
+
+    chmod +x caido.sh
+    ./caido.sh
+
+de resto você já sabe kkkkkkkkkkkk
